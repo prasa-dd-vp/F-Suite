@@ -34,7 +34,7 @@ def handShake(request):
 
   # Get the firebase credentials
   config = {
-    "apiKey": "AIzaSyA2t_s0Te5StZBe8yYqiOA8Sb478bFn84c",
+    "apiKey": "enter_api_key",
     "authDomain": "current-trends-farmer.firebaseapp.com",
     "databaseURL": "https://current-trends-farmer.firebaseio.com",
     "projectId": "current-trends-farmer",
@@ -94,7 +94,7 @@ def firebase_upload(request):
 
     # Get the firebase credentials
     config = {
-      "apiKey": "AIzaSyA2t_s0Te5StZBe8yYqiOA8Sb478bFn84c",
+      "apiKey": "enter_api_key",
       "authDomain": "current-trends-farmer.firebaseapp.com",
       "databaseURL": "https://current-trends-farmer.firebaseio.com",
       "projectId": "current-trends-farmer",
